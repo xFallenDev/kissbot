@@ -1,1 +1,1 @@
-# kissbot
+# hugbot
